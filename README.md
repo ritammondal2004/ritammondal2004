@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ritam-mondal-86a369287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>  
   <a href="ritamm134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/></a> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.instagram.com/rtm_ritam_mondal?igsh=bmJ4cDJoMWV2YThi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
 </a>
