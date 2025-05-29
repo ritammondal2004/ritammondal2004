@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Mondal</h1> 
-<h3 align="center">"I am a data science & AI engineer, data analyst & market research analyst from IIT Kharagpur"</h3>
+<h3 align="center">"I am a data science & AI Engg., data analyst & market research analyst from IIT Kharagpur, India"</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritam-mondal-86a369287/" target="_blank">
