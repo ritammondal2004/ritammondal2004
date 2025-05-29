@@ -9,10 +9,13 @@
   <a href="https://www.instagram.com/rtm_ritam_mondal?igsh=bmJ4cDJoMWV2YThi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>  
   <a href="https://www.hackerrank.com/profile/ritamm134" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-black?logo=HackerRank&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/HackerRank-041809?logo=HackerRank&style=for-the-badge"/></a>
  <a href="https://leetcode.com/u/Ritam_Mondal/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge"/>
-</a>
+</a> 
+ <a href="https://x.com/RitamMo10953152?t=Ik1IPtwpe6iObgwluX11xg&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white&style=for-the-badge"/>
+</a> 
 
 </p>
 
