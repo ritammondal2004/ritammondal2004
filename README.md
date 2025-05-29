@@ -20,28 +20,29 @@
 </p>
 
 ---
+<img src="doc/image/catcode.gif" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 15px;" />
 
- ### 🧠 About Me
+ ### 🧠 About Me 
 
 🎓 Dual Degree student at **IIT Kharagpur** (Industrial & Systems Engineering) 
 
-🤖 Passionate about **Data Science with Machine Learning and AI, stock market trading** 
+🤖 Passionate about **Data Science, AI & ML, stock market trading** 
 
-📊 Working on real-world datasets and end-to-end analytics pipelines, have a good grip over **DSA in C++**
+📊 Working on real-world datasets and Skilled in **data Analytics, Python, DSA (C++)**
 
-📈 Currently exploring **Deep Learning** and **Quantitative Finance** and **Algorithmic trading**
+📈 exploring **Deep Learning**, **Quantitative Finance** & **Algorithmic trading**
 
 📬 How to reach me:📩 ritamm134@gmail.com
 
 🚀 Let's connect and build something amazing together!
-
+    
 ---
 
-### 🔧💻 Technologies & Tools 👨‍💻:
+### 🔧💻 Languages & Tools 👨‍💻:
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40"/>  
