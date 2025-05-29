@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritam Mondal</h1>
+<h1 align="center">Hi 👋, I'm Ritam Mondal</h1> 
 <h3 align="center">"I am a data science & AI engineer, data analyst & market research analyst from IIT Kharagpur"</h3>
 
 <p align="center">
@@ -15,17 +15,23 @@
 
 ---
 
-### 🧠 About Me
+ ### 🧠 About Me
 
-- 🎓 Dual Degree student at **IIT Kharagpur** (Industrial & Systems Engineering)
-- 🤖 Passionate about **Data Science with Machine Learning and AI, stock market trading**
-- 📊 Working on real-world datasets and end-to-end analytics pipelines, have a good grip over DSA in C++
-- 📈 Currently exploring **Deep Learning** and **Quantitative Finance** and **Algorithmic trading**
-- 📬 How to reach me: ritamm134@gmail.com 
+🎓 Dual Degree student at **IIT Kharagpur** (Industrial & Systems Engineering) 
+
+🤖 Passionate about **Data Science with Machine Learning and AI, stock market trading** 
+
+📊 Working on real-world datasets and end-to-end analytics pipelines, have a good grip over **DSA in C++**
+
+📈 Currently exploring **Deep Learning** and **Quantitative Finance** and **Algorithmic trading**
+
+📬 How to reach me:📩 ritamm134@gmail.com
+
+🚀 Let's connect and build something amazing together!
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧💻 Technologies & Tools 👨‍💻
 
 `Python` `scikit-learn` `pandas` `Matplotlib` `Seaborn` `SQL` `Streamlit`  
 `Git` `VS Code` `Jupyter Notebook` `Google Colab`
@@ -34,14 +40,9 @@
 
 ### 📈 GitHub Stats
 
-![Ritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritam-mondal&show_icons=true&theme=radical)
+![Ritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritammondal2004&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Reach Me At
-
-📩 Email: [ritam.mondal@example.com](mailto:ritam.mondal@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-🌍 [GitHub](https://github.com/ritam-mondal)
 
 
