@@ -20,7 +20,7 @@
 </p>
 
 ---
-<img src="doc/image/catcode.gif" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 15px;" />
+<img src="doc/image/dog_code.gif" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 5px;" />
 
  ### 🧠 About Me 
 
