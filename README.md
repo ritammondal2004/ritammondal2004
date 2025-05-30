@@ -32,7 +32,7 @@
 
 📈 exploring **Deep Learning**, **Quantitative Finance** & **Algorithmic trading**
 
-📬 How to reach me:📩 ritamm134@gmail.com
+📬 How to reach me:📩 ritamm134@gmail.com or ritamm134@kgpian.iitkgp.ac.in
 
 🚀 Let's connect and build something amazing together!
     
