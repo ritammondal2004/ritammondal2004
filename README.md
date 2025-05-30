@@ -58,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c_logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="50"/> 
+  <img src = "doc/image/textblob-logo.webp" alt="textBlob" width="50" height="50" />
   <img src="doc/image/langChain_icon.png" alt="Langchain" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
