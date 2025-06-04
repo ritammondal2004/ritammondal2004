@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Mondal</h1> 
-<h3 align="center">"I am a data science & AI Engg., data analyst & market research analyst from IIT Kharagpur, India"</h3>
+<h3 align="center">"I am a data science & AI Engg., data analyst & financial market analyst from IIT Kharagpur, India"</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritam-mondal-86a369287/" target="_blank">
@@ -28,7 +28,7 @@
 
 🤖 Passionate about **Data Science, AI & ML, stock market trading** 
 
-📊 Working on real-world datasets and Skilled in **data Analytics, Python, DSA (C++)**
+📊 Working on real-world datasets and Skilled in **data Analytics,ML, Python & DSA (C++)**
 
 📈 exploring **Deep Learning**, **Quantitative Finance** & **Algorithmic trading**
 
