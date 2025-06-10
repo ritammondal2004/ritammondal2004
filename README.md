@@ -22,7 +22,7 @@
 ---
 <img src="doc/image/dog_code.gif" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 5px;" />
 
- ### 🧠 About Me (get my Resume)
+ ### 🧠 About Me (get my [resume here](doc/image/CV_latest.pdf) )
 
 🎓 Dual Degree student at **IIT Kharagpur** (Industrial & Systems Engineering) 
 
