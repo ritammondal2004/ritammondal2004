@@ -55,7 +55,7 @@
   <img src="doc/image/XGBoost_logo.svg.png" alt="XGboost" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c_logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="50"/> 
   <img src = "doc/image/textblob-logo.webp" alt="textBlob" width="50" height="50" />
