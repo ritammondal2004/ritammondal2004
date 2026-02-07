@@ -20,7 +20,7 @@
 </p>
 
 ---
-<img src="doc/image/dog_code.gif" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 5px;" />
+<img src="doc/image/ChatGPT Image Feb 7, 2026, 06_56_18 PM.png" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 5px;" />
 
  ### 🧠 About Me (get my [resume here](doc/image/CV_latest.pdf) )
 
