@@ -22,7 +22,7 @@
 ---
 <img src="doc/image/ChatGPT Image Feb 7, 2026, 06_56_18 PM.png" alt="coding" width="200" align="right" style="margin-top: -10px; margin-left: 5px;" />
 
- ### 🧠 About Me (get my [resume here](doc/image/CV_latest.pdf) )
+ ### 🧠 About Me (get my [resume here](doc/CV_latest.pdf) )
 
 🎓 Dual Degree student at **IIT Kharagpur** (Industrial & Systems Engineering) 
 
