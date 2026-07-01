@@ -71,11 +71,25 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Ritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritammondal2004&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=ritammondal2004&color=blue)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritammondal2004.ritammondal2004)
 
----
+### Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritammondal2004&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+### Activity Graph
+
+[![Ritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritammondal2004&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+-------------
+
+### LeetCode Stats
+                            
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ritam_Mondal?theme=dark&font=Karma&ext=contest)
 
 
 
