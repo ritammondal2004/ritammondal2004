@@ -75,6 +75,8 @@
 ![](https://komarev.com/ghpvc/?username=ritammondal2004&color=blue)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritammondal2004.ritammondal2004)
 
+
+
 ### Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ritammondal2004&theme=tokyonight)](https://git.io/streak-stats)
@@ -91,5 +93,10 @@
                             
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ritam_Mondal?theme=dark&font=Karma&ext=contest)
 
+----
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritammondal2004/ritammondal2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
