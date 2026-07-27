@@ -95,6 +95,11 @@
 
 ----
 
+### Codeforce Stats  
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ritam2004&theme=codeSTACKr&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ritam2004)
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ritammondal2004/ritammondal2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
