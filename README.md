@@ -82,11 +82,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ritammondal2004&theme=tokyonight)](https://git.io/streak-stats)
 
 
-
-### Activity Graph
-
-[![Ritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritammondal2004&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 -------------
 
 ### LeetCode Stats
@@ -99,7 +94,11 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ritam2004&theme=codeSTACKr&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ritam2004)
 
----
+--------
+
+### Activity Graph
+
+[![Ritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritammondal2004&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ritammondal2004/ritammondal2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
